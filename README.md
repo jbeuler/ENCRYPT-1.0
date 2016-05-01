@@ -1,5 +1,5 @@
 # ENCRYPT-1.0
-A simple program which helps with encrypting decrypting text files.
+A simple program which helps with encrypting and decrypting text files.
 
 ***This program is coded in C language and the encryption/decryption algorithm is based on Ceasar Cipher.***
 
