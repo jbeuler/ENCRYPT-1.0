@@ -11,3 +11,6 @@ First,  you will be asking for the job/action you want to do: Encryption or Decr
 -Then press ENTER
 -There you are!
 
+**TODO**
+* Set the key for the encryption.
+* Add many more algorithms for the encryption.
